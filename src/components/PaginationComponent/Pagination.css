@@ -1,0 +1,11 @@
+.pagination > li {
+    margin: 0 !important;
+}
+
+.pagination > li > div {
+    padding: 10px 20px;
+    border: 1px solid #dedede;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+}
