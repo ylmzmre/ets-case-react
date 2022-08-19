@@ -1,5 +1,3 @@
-Open https://ylmzmre.github.io/ets-case-react to view it in the browser.
-
 # Açıklama
 
 • Uygulamanın ilk ekranı listedir. Otel ekleyerek liste oluşturulmalıdır. Burada girilen kayıtlardaki kural en son girilen en başta olucak şekilde yapılmıştır.
