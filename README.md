@@ -1,4 +1,4 @@
-Open https://ylmzmre.github.io/ets-case/ to view it in the browser.
+Open https://ylmzmre.github.io/ets-case-react to view it in the browser.
 
 # Açıklama
 
